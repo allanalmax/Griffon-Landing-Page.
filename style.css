@@ -1,0 +1,124 @@
+#header{
+    background-color:crimson;
+    height: 100px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+#nav-bar{
+    float: right;
+}
+.nav-link{
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+#header-img{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.heading{
+    text-align: center;
+    font-size: 50px;
+    color: red;
+    padding-top: 100px;
+}
+#form{
+    text-align: center;
+    padding: 5px; 
+}
+#email{
+    text-align: left;
+    font-size: 20px;
+    width: 200px;
+    height: 20px;
+    padding: 4px;
+}
+#submit{
+    background-color: red;
+    font-size: 20px;
+    width: 150px;
+    height: 30px;
+    padding-bottom: 5px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.features{
+    display: flex;
+    height: 70px;
+    display: inline-flex;
+}
+.icon{
+    height: 60px;
+    width: 70px;
+    margin-left: 250px;
+    padding-top: 10px;
+}
+.icon-head{
+    margin-left: 70px;
+    font-size: 40px;
+    color: red;
+}
+.vid{
+    margin-left: 200px;
+    padding-top: 20px;
+}
+.fashion{
+    margin-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+.photography{
+    margin-left: 100px;
+    padding-right: 100px;
+    font-size: 20px;
+}
+.how-it-works{
+    display: flex;
+    height: 70px;
+    display: inline-flex;
+}
+.pricing{
+    display: flex;
+    height: 70px;
+    display: inline-flex;
+    padding-bottom: 40px;
+}
+.table-div{
+    padding-bottom: 50px;
+}
+#table{
+    border: 2px solid;
+    width: 700px;
+    margin-left: 100px;
+}
+.table-headings{
+    border-bottom: 1px solid;
+    padding: 2px;
+    text-align: center;
+    width: 50%;
+    border-right: 2px solid;
+}
+.table-description{
+    border-bottom: 2px solid;
+    padding: 2px;
+    width: 50%;
+    border-right: 2px solid;
+}
+#footer{
+    height:40px;
+    background-color: grey;
+    width: 100%;
+    padding-top: 25px;
+}
+.footer-link{
+    padding: 10px;
+    font-size: 20px;
+    float: right;
+    color: white;
+    text-decoration: none;
+}
